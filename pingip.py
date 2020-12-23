@@ -8,7 +8,7 @@ def nm(l):
             c = snetmask.index("0")
     return c
 
-mytext = "Welcome to IP Ping Program by: Djordje Simic Promena"
+mytext = "Welcome to IP Ping Program by: Djordje Simic Promena Prihvacena"
 mytextt= "Program Start Pinging, Please Wait"
 print(mytext)
 myobj = gTTS(text=mytext, lang="en", slow=False)
